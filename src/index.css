@@ -12,3 +12,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.lobby {
+  width: 30%;
+  float: left;
+}
+
+.chat {
+  width: 70%;
+  float: right;
+}
+
+.message-input {
+  width: 65%;
+  position: fixed;
+  bottom: 0;
+}
